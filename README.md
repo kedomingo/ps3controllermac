@@ -25,7 +25,9 @@ It will be something like "PLAYSTATION(R)3Conteroller-PANHAI"
 When you connect to the controller, the 4 indicator LEDs will blink rapidly at the same time. After a few seconds, the controller
 will turn off.
 
-Turn on the controller and it will connect to the mac again, this time, copy the bluetooth address to somewhere before it disconnects.
+Turn on the controller and it will connect to the mac again, this time, copy the bluetooth address to somewhere before it disconnects. 
+(you can check it if you Right Click or CMD+Click on the device on the Bluetooth list)
+ ![Screen Shot 2022-06-27 at 3 23 24 PM](https://user-images.githubusercontent.com/1763107/175953056-0d2c3db9-5953-4fdc-aeb3-a932dc5586d3.png)
 
 ## Patching
 
