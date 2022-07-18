@@ -69,7 +69,7 @@ It is assumed that you have a couple of files in the following directories:
 ## Compatibility
 
 1. The sierra patch is supposed to be compatible with Sierra (10.12) and High Sierra (10.13)
-2. The mojave patch is supposed to be compatible with Mojave (10.14) up to Big Sur (10.16). 
+2. The mojave patch is supposed to be compatible with Mojave (10.14) up to Big Sur (11.16). 
 
 I HAVE ONLY TRIED THIS FOR BIG SUR.
 
