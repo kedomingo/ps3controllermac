@@ -40,7 +40,7 @@ need to put it back to `/Library/Preferences/com.apple.Bluetooth.plist`, delete 
 and restart the machine
 
 ```
-Using Catalina Patch
+Using Mojave Patch
 Enter bluetooth address of controller:
 dc-16-b2-f5-f2-bf
 Device name is PLAYSTATION(R)3Conteroller-PANHAI. Is this correct? [y/N]
@@ -66,3 +66,13 @@ It is assumed that you have a couple of files in the following directories:
 1. `/usr/bin/plutil`
 2. `/usr/libexec/PlistBuddy`
 
+## Compatibility
+
+1. The sierra patch is supposed to be compatible with Sierra (10.12) and High Sierra (10.13)
+2. The mojave patch is supposed to be compatible with Mojave (10.14) up to Big Sur (10.16). 
+
+I HAVE ONLY TRIED THIS FOR BIG SUR.
+
+Fork of the original gist can be found at: https://gist.github.com/kedomingo/811e3a15c3dca50048efbc1762a82bf1
+
+If you want to do it manually, instructions are available in youtube: https://www.youtube.com/watch?v=HBNOXJm-wSU
