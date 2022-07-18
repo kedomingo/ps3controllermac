@@ -1,4 +1,4 @@
-#Fake PS3 Controller Patcher for Mac OSX Sierra to Big Sur
+# Fake PS3 Controller Patcher for Mac OSX Sierra to Big Sur
 
 ## Description
 
