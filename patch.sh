@@ -65,6 +65,7 @@ for file in ~/Library/Preferences/ByHost/com.apple.Bluetooth.*.plist ; do
   fi
 done
 
-echo "3. Then restart machine."
+echo "3. Run defaults read /Library/Preferences/com.apple.Bluetooth.plist"
+echo "4. Then restart machine."
 echo ""
 echo "Backup of /Library/Preferences/com.apple.Bluetooth.plist is kept at $backupFile"
