@@ -8,6 +8,9 @@ Pairing the fake PS3 controllers on mac os doesn't really work well because they
 This patch will make your controller mimic a real one.
 
 ## ⚠️ NO GUARANTEES TO WORK
+## ⚠️ DO IT AT YOUR OWN RISK
+## ⚠️ DO IT AT YOUR OWN RISK
+
 ## DISCLAIMER
 
 The program does not overwrite or remove any files from your filesystem. This program does NOT require you to run as root
